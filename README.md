@@ -1,6 +1,5 @@
 # Dogs_Cat_Classifier_using_MLFlow_and_Ngrok.ipynb
 
-# Cat-Dog Classifier using MobileNet
 
 This repository contains code for building a cat-dog classifier using the MobileNet architecture, along with instructions for setting up the environment and deploying the model to production.
 
