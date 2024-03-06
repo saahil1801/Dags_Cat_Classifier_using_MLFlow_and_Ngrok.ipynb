@@ -3,6 +3,8 @@
 
 This repository contains code for building a cat-dog classifier using the MobileNet architecture, along with instructions for setting up the environment and deploying the model to production.
 
+![image](https://github.com/saahil1801/Dogs_Cat_Classifier_using_MobileNet-MLFlow_and_Ngrok.ipynb/assets/84408557/bdd8d4a8-ae40-42e5-8dc1-8c4501b1ea57)
+
 ## Dependencies
 
 Before running the code, ensure you have installed the following Python packages:
